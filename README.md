@@ -1,5 +1,8 @@
 # Leveraging WangchanBERTa for NLP-Driven Insights into Bangkok's Road Complaints via Traffy Fondue
 
+<p align="center">
+  <img src="https://storage.googleapis.com/traffy_public_bucket/traffy_logo/Image_fondue_logo.png">
+</p>
 กรุงเทพมีปัญหาเรื่องโครงสร้างพื้นฐานที่ซับซ้อน แม้จะมีช่องทางให้ประชาชนร้องเรียน เช่น แอปพลิเคชัน Traffy Fondue แต่ข้อมูลที่ได้รับมักมีปริมาณมากและซับซ้อน ทำให้ยากต่อการวิเคราะห์และจัดการอย่างมีประสิทธิภาพ และในแอพพลิเคชั่น Traffy Fondue ประเภทของเรื่องแจ้งที่ติด Top 5 ตลอด คือ ถนน เช่น การชำรุดเสียหาย การจราจรติดขัด และการจัดการที่ล่าช้า
 
 ## โอกาสทางเทคโนโลยี:
